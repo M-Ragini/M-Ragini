@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="background-color: blue;"><img src="header.svg"></div>
+<img src="header.svg" align="right" height="300">
 <!--
 **M-Ragini/M-Ragini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
