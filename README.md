@@ -9,7 +9,7 @@
 <br>
 <h3>Here are the apps and programs I use. Are these familiar to you, too?</h3>
 
-<p><img src="header.svg" align="right" height="350"></p>
+<p><img src="header.svg" align="right" height="200"></p>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,figma,html,ai,ps,vscode&theme=light" />
@@ -18,10 +18,9 @@
 
 <br>
 <br>
-<br>
 
 <hr>
-<p align="right">Did you know I drew this cute lil bunny? ➡️</p>
+<p align="right">Did you know I drew this cute lil bunny? </p>
 <hr>
 
 <br><br><br>
